@@ -1,0 +1,54 @@
+body {
+  background-image: url(bg.png);
+}
+
+#main {
+  margin-top: 60px;
+}
+
+.entry {
+  $day-width: 50px;
+
+  background-color: #fff;
+  margin-bottom: 20px;
+  margin-left: $day-width;
+  padding: 15px 20px 20px;
+  border: 1px solid #ccc;
+  box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.4);
+  position: relative;
+
+  h4 {
+    min-height: 2.5em;
+  }
+
+  .author {
+    min-height: 24px;
+
+    .name {
+      padding: 0 5px;
+    }
+  }
+
+  .day {
+    width: $day-width;
+    text-align: center;
+    color: #fff;
+    background-color: #333;
+    position: absolute;
+    left: $day-width * -1;
+    top: 14px;
+
+    span {
+      color: #999;
+    }
+
+    strong {
+      font-size: 200%;
+      text-shadow: 1px -1px 0 rgba(0, 0, 0, 0.5);
+    }
+  }
+
+  &:hover {
+    border: 1px solid #999;
+  }
+}

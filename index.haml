@@ -1,0 +1,48 @@
+- title = "Kosen Advent Calendar"
+
+!!! 5
+%html
+  %head
+    %title
+      = title
+    %meta( charset="UTF-8" )
+    %meta( name= "viewport" content="width=device-width, initial-scale=1.0" )
+    %script( type="text/javascript" src="assets/jquery-1.8.3.min.js" )
+    %script( type="text/javascript" src="assets/knockout-2.2.0.js" )
+    %script( type="text/javascript" src="assets/advent.js" )
+    %link( rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css" )
+    %link( rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap-responsive.min.css" )
+    %link( rel="stylesheet" type="text/css" href="assets/advent.css" )
+
+    %script( type="text/html" id="entry-template" )
+      .entry
+        %h4
+          %a( target="_blank" data-bind="text: title, attr: { href: url }" )
+        .author
+          %img.icon( width="24" height="24" data-bind="attr: { src: author.icon }" )
+          %span.name( data-bind="text: author.name" )
+        .day
+          %span><
+            DAY
+          %br
+          %strong( data-bind="text: $index() + 1" )><
+
+  %body
+    %header.navbar.navbar-inverse.navbar-fixed-top
+      .navbar-inner
+        .container
+          %a.brand( href="./" )
+            = title
+
+    #main
+      .container
+        .row
+          .span6
+            %h2
+              2011
+            .entries( data-bind="template: { name: 'entry-template', foreach: entries2011 }" )
+
+          .span6
+            %h2
+              2010
+            .entries( data-bind="template: { name: 'entry-template', foreach: entries2010 }" )

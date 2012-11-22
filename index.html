@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Kosen Advent Calendar
+    </title>
+    <meta charset='UTF-8' />
+    <meta content='width=device-width, initial-scale=1.0' name='viewport' />
+    <script src='assets/jquery-1.8.3.min.js' type='text/javascript'></script>
+    <script src='assets/knockout-2.2.0.js' type='text/javascript'></script>
+    <script src='assets/advent.js' type='text/javascript'></script>
+    <link href='assets/bootstrap/css/bootstrap.min.css' rel='stylesheet' type='text/css' />
+    <link href='assets/bootstrap/css/bootstrap-responsive.min.css' rel='stylesheet' type='text/css' />
+    <link href='assets/advent.css' rel='stylesheet' type='text/css' />
+    <script id='entry-template' type='text/html'>
+      <div class='entry'>
+        <h4>
+          <a data-bind='text: title, attr: { href: url }' target='_blank'></a>
+        </h4>
+        <div class='author'>
+          <img class='icon' data-bind='attr: { src: author.icon }' height='24' width='24' />
+          <span class='name' data-bind='text: author.name'></span>
+        </div>
+        <div class='day'><span>DAY</span><br /><strong data-bind='text: $index() + 1'></strong></div>
+      </div>
+    </script>
+  </head>
+  <body>
+    <header class='navbar navbar-inverse navbar-fixed-top'>
+      <div class='navbar-inner'>
+        <div class='container'>
+          <a class='brand' href='./'>
+            Kosen Advent Calendar
+          </a>
+        </div>
+      </div>
+    </header>
+    <div id='main'>
+      <div class='container'>
+        <div class='row'>
+          <div class='span6'>
+            <h2>
+              2011
+            </h2>
+            <div class='entries' data-bind="template: { name: 'entry-template', foreach: entries2011 }"></div>
+          </div>
+          <div class='span6'>
+            <h2>
+              2010
+            </h2>
+            <div class='entries' data-bind="template: { name: 'entry-template', foreach: entries2010 }"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

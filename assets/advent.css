@@ -1,0 +1,35 @@
+body {
+  background-image: url(bg.png); }
+
+#main {
+  margin-top: 60px; }
+
+.entry {
+  background-color: #fff;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  padding: 15px 20px 20px;
+  border: 1px solid #ccc;
+  box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.4);
+  position: relative; }
+  .entry h4 {
+    min-height: 2.5em; }
+  .entry .author {
+    min-height: 24px; }
+    .entry .author .name {
+      padding: 0 5px; }
+  .entry .day {
+    width: 50px;
+    text-align: center;
+    color: #fff;
+    background-color: #333;
+    position: absolute;
+    left: -50px;
+    top: 14px; }
+    .entry .day span {
+      color: #999; }
+    .entry .day strong {
+      font-size: 200%;
+      text-shadow: 1px -1px 0 rgba(0, 0, 0, 0.5); }
+  .entry:hover {
+    border: 1px solid #999; }
