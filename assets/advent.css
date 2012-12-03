@@ -4,6 +4,10 @@ body {
 #main {
   margin-top: 60px; }
 
+h2 a, h3 a {
+  font-size: 18px;
+  margin: 0 20px; }
+
 .entries {
   margin-bottom: 80px; }
 
