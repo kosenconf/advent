@@ -22,13 +22,34 @@ body {
   position: relative;
 
   h4 {
-    min-height: 3.6em;
+    min-height: 4em;
+  }
+
+  .social-widgets {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+
+    .widget {
+      position: absolute;
+    }
+
+    .facebook-like {
+      right: 0;
+      bottom: 3px;
+    }
+
+    .twitter-tweet {
+      right: 54px;
+      bottom: 0;
+    }
   }
 
   .author {
     min-height: 24px;
 
     .name {
+      font-size: 90%;
       padding: 0 5px;
     }
   }

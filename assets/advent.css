@@ -16,10 +16,23 @@ body {
   box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.4);
   position: relative; }
   .entry h4 {
-    min-height: 3.6em; }
+    min-height: 4em; }
+  .entry .social-widgets {
+    position: absolute;
+    bottom: 10px;
+    right: 20px; }
+    .entry .social-widgets .widget {
+      position: absolute; }
+    .entry .social-widgets .facebook-like {
+      right: 0;
+      bottom: 3px; }
+    .entry .social-widgets .twitter-tweet {
+      right: 54px;
+      bottom: 0; }
   .entry .author {
     min-height: 24px; }
     .entry .author .name {
+      font-size: 90%;
       padding: 0 5px; }
   .entry .day {
     width: 50px;

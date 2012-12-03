@@ -20,6 +20,9 @@
         .author
           %img.icon( width="24" height="24" data-bind="attr: { src: author.icon }" )
           %span.name( data-bind="text: author.name" )
+        .social-widgets
+          %span.widget.facebook-like( data-bind="likeButton: url" )
+          %span.widget.twitter-tweet( data-bind="tweetButton: url" )
         .day
           %span><
             DAY
@@ -60,3 +63,14 @@
             %h2
               2010
             .entries( data-bind="template: { name: 'entry-template', foreach: entries2010 }" )
+
+    :plain
+      <div id="fb-root"></div>
+      <script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=371618846211228";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>

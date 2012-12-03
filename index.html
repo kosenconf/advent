@@ -20,6 +20,10 @@
           <img class='icon' data-bind='attr: { src: author.icon }' height='24' width='24' />
           <span class='name' data-bind='text: author.name'></span>
         </div>
+        <div class='social-widgets'>
+          <span class='widget facebook-like' data-bind='likeButton: url'></span>
+          <span class='widget twitter-tweet' data-bind='tweetButton: url'></span>
+        </div>
         <div class='day'><span>DAY</span><br /><strong data-bind='text: $index() + 1'></strong></div>
       </div>
     </script>
@@ -71,5 +75,14 @@
         </div>
       </div>
     </div>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=371618846211228";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </body>
 </html>
