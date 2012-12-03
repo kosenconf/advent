@@ -482,7 +482,7 @@ ko.bindingHandlers.likeButton = {
 ko.bindingHandlers.tweetButton = {
   init: (element, valueAccessor) ->
     value = valueAccessor()
-    $(element).html("<a href='https://twitter.com/share' class='twitter-share-button' data-text='#{value}' data-count='vertical'>Tweet</a>")
+    $(element).html("<a href='https://twitter.com/share' class='twitter-share-button' data-url='#{value}' data-count='vertical'>Tweet</a>")
 }
 
 $ ->

@@ -434,7 +434,7 @@
     init: function(element, valueAccessor) {
       var value;
       value = valueAccessor();
-      return $(element).html("<a href='https://twitter.com/share' class='twitter-share-button' data-text='" + value + "' data-count='vertical'>Tweet</a>");
+      return $(element).html("<a href='https://twitter.com/share' class='twitter-share-button' data-url='" + value + "' data-count='vertical'>Tweet</a>");
     }
   };
   $(function() {
