@@ -18,6 +18,15 @@ AdventViewModel = ->
         icon: "https://twimg0-a.akamaihd.net/profile_images/2712133666/bed8f8ee6d966fa710f43b2dc6348eaf_reasonably_small.jpeg"
       }
     }
+    {
+      day:    3
+      title:  "やるかやらないかの話"
+      url:    "http://d.hatena.ne.jp/intyo_haraita/20121203/1354533576"
+      author: {
+        name: "intyo_haraita"
+        icon: "https://twimg0-a.akamaihd.net/profile_images/2779761094/21df16d48eff67ff35d264fb1349b7c8_reasonably_small.png"
+      }
+    }
   ]
 
   entries2012teachers: [
@@ -37,6 +46,15 @@ AdventViewModel = ->
       author: {
         name: "井上 泰仁 (舞鶴高専 電気情報工学科)"
         icon: "https://twimg0-a.akamaihd.net/profile_images/1844541617/image_reasonably_small.jpg"
+      }
+    }
+    {
+      day:    3
+      title:  "高専に無知な大学院生は如何に高専を勘違いし、勘違いしたままロボコン指導教員となったか。勘違い教員は、普段何を考えているか"
+      url:    "http://kosen-teachers.tumblr.com/post/37104152502"
+      author: {
+        name: "亀山 建太郎 (福井高専 機械工学科)"
+        icon: "./assets/avatar.png"
       }
     }
   ]
