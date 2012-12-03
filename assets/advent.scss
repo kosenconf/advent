@@ -6,6 +6,10 @@ body {
   margin-top: 60px;
 }
 
+.entries {
+  margin-bottom: 80px;
+}
+
 .entry {
   $day-width: 50px;
 
@@ -18,7 +22,7 @@ body {
   position: relative;
 
   h4 {
-    min-height: 2.5em;
+    min-height: 3.6em;
   }
 
   .author {

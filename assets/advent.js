@@ -2,6 +2,44 @@
   var AdventViewModel;
   AdventViewModel = function() {
     return {
+      entries2012general: [
+        {
+          day: 1,
+          title: "エントロピーを減少させるという生き方",
+          url: "http://d.hatena.ne.jp/satoyu_anct/20121130/1354291284",
+          author: {
+            name: "satoyu_anct",
+            icon: "https://twimg0-a.akamaihd.net/profile_images/2810434854/f1131558d9c7583b1b0477ae2cad703a_reasonably_small.png"
+          }
+        }, {
+          day: 2,
+          title: "ぼくとテストと赤点",
+          url: "http://akms.hateblo.jp/entry/2012/12/02/224638",
+          author: {
+            name: "T_akms",
+            icon: "https://twimg0-a.akamaihd.net/profile_images/2712133666/bed8f8ee6d966fa710f43b2dc6348eaf_reasonably_small.jpeg"
+          }
+        }
+      ],
+      entries2012teachers: [
+        {
+          day: 1,
+          title: "高専生よ，汝はどんな基準で自分を計る?",
+          url: "http://june-kousensei.hatenablog.jp/entry/2012/12/01/234013",
+          author: {
+            name: "佐藤 潤 (福島高専 技術職員)",
+            icon: "https://twimg0-a.akamaihd.net/profile_images/1526706985/384714416_reasonably_small.png"
+          }
+        }, {
+          day: 2,
+          title: "写真から見る高専生の成長",
+          url: "http://yasuto0306.tumblr.com/post/37026483854",
+          author: {
+            name: "井上 泰仁 (舞鶴高専 電気情報工学科)",
+            icon: "https://twimg0-a.akamaihd.net/profile_images/1844541617/image_reasonably_small.jpg"
+          }
+        }
+      ],
       entries2011: [
         {
           day: 1,

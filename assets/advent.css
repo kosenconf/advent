@@ -4,6 +4,9 @@ body {
 #main {
   margin-top: 60px; }
 
+.entries {
+  margin-bottom: 80px; }
+
 .entry {
   background-color: #fff;
   margin-bottom: 20px;
@@ -13,7 +16,7 @@ body {
   box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.4);
   position: relative; }
   .entry h4 {
-    min-height: 2.5em; }
+    min-height: 3.6em; }
   .entry .author {
     min-height: 24px; }
     .entry .author .name {

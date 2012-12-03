@@ -11,7 +11,6 @@
     %script( type="text/javascript" src="assets/knockout-2.2.0.js" )
     %script( type="text/javascript" src="assets/advent.js" )
     %link( rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css" )
-    %link( rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap-responsive.min.css" )
     %link( rel="stylesheet" type="text/css" href="assets/advent.css" )
 
     %script( type="text/html" id="entry-template" )
@@ -36,6 +35,21 @@
 
     #main
       .container
+        .row
+          .span12
+            %h2
+              2012
+
+          .span6
+            %h3
+              General
+            .entries( data-bind="template: { name: 'entry-template', foreach: entries2012general }" )
+
+          .span6
+            %h3
+              Teachers
+            .entries( data-bind="template: { name: 'entry-template', foreach: entries2012teachers }" )
+
         .row
           .span6
             %h2
