@@ -27,6 +27,14 @@
             name: "intyo_haraita",
             icon: "https://twimg0-a.akamaihd.net/profile_images/2779761094/21df16d48eff67ff35d264fb1349b7c8_reasonably_small.png"
           }
+        }, {
+          day: 4,
+          title: "私の振り返りのような何か",
+          url: "http://neruko3114.blogspot.jp/2012/12/kosen-advent-calendar-2012.html",
+          author: {
+            name: "neruko3114",
+            icon: "https://twimg0-a.akamaihd.net/profile_images/1480229971/bakeneko1_reasonably_small.jpg"
+          }
         }
       ],
       entries2012teachers: [
@@ -53,6 +61,14 @@
           author: {
             name: "亀山 建太郎 (福井高専 機械工学科)",
             icon: "./assets/avatar.png"
+          }
+        }, {
+          day: 4,
+          title: "僕がどうやって、高専という荒野を渡り歩いたか？",
+          url: "http://consensive.tumblr.com/post/37184896933",
+          author: {
+            name: "松崎 俊明 (釧路高専 一般教科)",
+            icon: "https://twimg0-a.akamaihd.net/profile_images/1396892767/84d33772-6ff5-4a81-a0d3-84dcabbd37df_bigger.png"
           }
         }
       ],
