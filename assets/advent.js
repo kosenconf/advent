@@ -9,7 +9,7 @@
           url: "http://d.hatena.ne.jp/satoyu_anct/20121130/1354291284",
           author: {
             name: "satoyu_anct",
-            icon: "https://twimg0-a.akamaihd.net/profile_images/2810434854/f1131558d9c7583b1b0477ae2cad703a_reasonably_small.png"
+            icon: "http://twimg0-a.akamaihd.net/profile_images/2810434854/f1131558d9c7583b1b0477ae2cad703a_reasonably_small.png"
           }
         }, {
           day: 2,
@@ -17,7 +17,7 @@
           url: "http://akms.hateblo.jp/entry/2012/12/02/224638",
           author: {
             name: "T_akms",
-            icon: "https://twimg0-a.akamaihd.net/profile_images/2712133666/bed8f8ee6d966fa710f43b2dc6348eaf_reasonably_small.jpeg"
+            icon: "http://twimg0-a.akamaihd.net/profile_images/2712133666/bed8f8ee6d966fa710f43b2dc6348eaf_reasonably_small.jpeg"
           }
         }, {
           day: 3,
@@ -25,7 +25,7 @@
           url: "http://d.hatena.ne.jp/intyo_haraita/20121203/1354533576",
           author: {
             name: "intyo_haraita",
-            icon: "https://twimg0-a.akamaihd.net/profile_images/2779761094/21df16d48eff67ff35d264fb1349b7c8_reasonably_small.png"
+            icon: "http://twimg0-a.akamaihd.net/profile_images/2779761094/21df16d48eff67ff35d264fb1349b7c8_reasonably_small.png"
           }
         }, {
           day: 4,
@@ -33,7 +33,15 @@
           url: "http://neruko3114.blogspot.jp/2012/12/kosen-advent-calendar-2012.html",
           author: {
             name: "neruko3114",
-            icon: "https://twimg0-a.akamaihd.net/profile_images/1480229971/bakeneko1_reasonably_small.jpg"
+            icon: "http://twimg0-a.akamaihd.net/profile_images/1480229971/bakeneko1_reasonably_small.jpg"
+          }
+        }, {
+          day: 5,
+          title: "Play Equipment",
+          url: "http://d.hatena.ne.jp/tarchal_cop/20121205/1354699216",
+          author: {
+            name: "たーちゃる",
+            icon: "http://a0.twimg.com/profile_images/2779410374/d6f7847a0f7f646d2099ea11e8b582ce_normal.jpeg"
           }
         }
       ],
@@ -44,7 +52,7 @@
           url: "http://june-kousensei.hatenablog.jp/entry/2012/12/01/234013",
           author: {
             name: "佐藤 潤 (福島高専 技術職員)",
-            icon: "https://twimg0-a.akamaihd.net/profile_images/1526706985/384714416_reasonably_small.png"
+            icon: "http://twimg0-a.akamaihd.net/profile_images/1526706985/384714416_reasonably_small.png"
           }
         }, {
           day: 2,
@@ -52,7 +60,7 @@
           url: "http://yasuto0306.tumblr.com/post/37026483854",
           author: {
             name: "井上 泰仁 (舞鶴高専 電気情報工学科)",
-            icon: "https://twimg0-a.akamaihd.net/profile_images/1844541617/image_reasonably_small.jpg"
+            icon: "http://twimg0-a.akamaihd.net/profile_images/1844541617/image_reasonably_small.jpg"
           }
         }, {
           day: 3,
@@ -68,7 +76,15 @@
           url: "http://consensive.tumblr.com/post/37184896933",
           author: {
             name: "松崎 俊明 (釧路高専 一般教科)",
-            icon: "https://twimg0-a.akamaihd.net/profile_images/1396892767/84d33772-6ff5-4a81-a0d3-84dcabbd37df_bigger.png"
+            icon: "http://twimg0-a.akamaihd.net/profile_images/1396892767/84d33772-6ff5-4a81-a0d3-84dcabbd37df_bigger.png"
+          }
+        }, {
+          day: 5,
+          title: "Rails寺子屋 x 高専カンファレンス",
+          url: "http://igarashikuniaki.net/diary/20121205.html#p01",
+          author: {
+            name: "五十嵐 邦明 (一橋大学 非常勤講師)",
+            icon: "http://twimg0-a.akamaihd.net/profile_images/2775085674/aacc6da0f43115bb2e60878e10a92377_reasonably_small.jpeg"
           }
         }
       ],
