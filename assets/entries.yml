@@ -34,6 +34,13 @@ entries2012general:
     author:
       name: "たーちゃる"
       icon: "http://a0.twimg.com/profile_images/2779410374/d6f7847a0f7f646d2099ea11e8b582ce_normal.jpeg"
+  -
+    day:    6
+    title:  "平々凡々たる高専生の5年間"
+    url:    "http://2ok9d.hatenablog.com/entry/2012/12/06/191157"
+    author:
+      name: "Kayanuma_Neppu"
+      icon: "http://a0.twimg.com/profile_images/2873418834/87d7b37471bc24231bc81b109d8b6501_normal.png"
 
 entries2012teachers:
   -
@@ -71,6 +78,13 @@ entries2012teachers:
     author:
       name: "五十嵐 邦明 (一橋大学 非常勤講師)"
       icon: "http://twimg0-a.akamaihd.net/profile_images/2775085674/aacc6da0f43115bb2e60878e10a92377_reasonably_small.jpeg"
+  -
+    day:    6
+    title:  "チャレンジしつづけていますか？"
+    url:    "http://d.hatena.ne.jp/kawa_xxx/20121206/1354800897"
+    author:
+      name: "河村 辰也 (サレジオ高専 非常勤講師)"
+      icon: "http://www.st-hatena.com/users/ka/kawa_xxx/profile.gif"
 
 entries2011:
   -
