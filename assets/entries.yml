@@ -41,6 +41,13 @@ entries2012general:
     author:
       name: "Kayanuma_Neppu"
       icon: "http://a0.twimg.com/profile_images/2873418834/87d7b37471bc24231bc81b109d8b6501_normal.png"
+  -
+    day:    7
+    title:  高専生活をもっと楽しくするモノ
+    url:    http://blog.mktakuya.net/2012/12/kosen-advent-calendar-2012-7.html
+    author:
+      name: mktakuya
+      icon: http://twimg0-a.akamaihd.net/profile_images/2919403559/60bd68f65c7804a27b3b0eccab8edbb8_reasonably_small.png
 
 entries2012teachers:
   -
