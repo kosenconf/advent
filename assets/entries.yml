@@ -48,6 +48,20 @@ entries2012general:
     author:
       name: mktakuya
       icon: http://twimg0-a.akamaihd.net/profile_images/2919403559/60bd68f65c7804a27b3b0eccab8edbb8_reasonably_small.png
+  -
+    day:    8
+    title:  おいしいカレーのつくりかたのはなし
+    url:    http://alton0620.hatenablog.com/entry/2012/12/08/220935
+    author:
+      name: alton0620
+      icon: http://twimg0-a.akamaihd.net/profile_images/2943843755/77cc576b680489f98fd6d9235440a21b_reasonably_small.jpeg
+  -
+    day:    9
+    title:  高専 7 年目で気づきはじめたこと
+    url:    http://j1804.info/blog/?p=388
+    author:
+      name: salvia_aka_meme
+      icon: http://twimg0-a.akamaihd.net/profile_images/2665270857/0ccece0c429e35bb706ae6cd83c451a1_reasonably_small.jpeg
 
 entries2012teachers:
   -
@@ -99,6 +113,20 @@ entries2012teachers:
     author:
       name: 越野 亮 (石川高専 電子情報工学科)
       icon: http://twimg0-a.akamaihd.net/profile_images/1608448401/test_reasonably_small.jpg
+  -
+    day:    8
+    title:  (掲載待ち)
+    url:
+    author:
+      name:
+      icon: ./assets/avatar.png
+  -
+    day:    9
+    title:  憧れをきっかけに。きっかけを行動に。行動を決意に。
+    url:    http://yusukeaoki.tumblr.com/post/37546749891
+    author:
+      name: 青木 悠祐 (沼津高専 電子制御工学科)
+      icon: http://twimg0-a.akamaihd.net/profile_images/576177557/_1_reasonably_small.jpg
 
 entries2011:
   -

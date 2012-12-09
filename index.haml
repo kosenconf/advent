@@ -27,7 +27,7 @@
         .author
           %img.icon( width="24" height="24" data-bind="attr: { src: author.icon }" )
           %span.name( data-bind="text: author.name" )
-        .social-widgets
+        .social-widgets( data-bind="visible: url" )
           %span.widget.facebook-like( data-bind="likeButton: url" )
           %span.widget.twitter-tweet( data-bind="tweetButton: url" )
         .day

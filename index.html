@@ -27,7 +27,7 @@
           <img class='icon' data-bind='attr: { src: author.icon }' height='24' width='24' />
           <span class='name' data-bind='text: author.name'></span>
         </div>
-        <div class='social-widgets'>
+        <div class='social-widgets' data-bind='visible: url'>
           <span class='widget facebook-like' data-bind='likeButton: url'></span>
           <span class='widget twitter-tweet' data-bind='tweetButton: url'></span>
         </div>
