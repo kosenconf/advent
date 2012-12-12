@@ -69,6 +69,13 @@ entries2012general:
     author:
       name: SyobonTech
       icon: http://twimg0-a.akamaihd.net/profile_images/2789334192/aab80770415eed1da4c6e906965135f1_reasonably_small.jpeg
+  -
+    day:    11
+    title:  オレ（ボク）と高専
+    url:    http://d.hatena.ne.jp/metal_president/20121210/1355155834
+    author:
+      name: metal_president
+      icon: http://twimg0-a.akamaihd.net/profile_images/2893508378/e5d8a77f7e02b068765eb0bafe233b5b_bigger.jpeg
 
 entries2012teachers:
   -
@@ -141,6 +148,13 @@ entries2012teachers:
     author:
       name:
       icon:
+  -
+    day:    11
+    title:  マイノリティへGo!
+    url:    http://d.hatena.ne.jp/Meguu/20121212/1355301705
+    author:
+      name: 原田 恵雨 (苫小牧高専 情報工学科)
+      icon: http://graph.facebook.com/kubyaddi/picture
 
 entries2011:
   -
