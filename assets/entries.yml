@@ -155,6 +155,13 @@ entries2012teachers:
     author:
       name: 原田 恵雨 (苫小牧高専 情報工学科)
       icon: http://graph.facebook.com/kubyaddi/picture
+  -
+    day:    12
+    title:  福山雅治になる方法
+    url:    http://kosen-teachers.tumblr.com/post/37778909039
+    author:
+      name: 伊藤 祥一 (長野高専 電子情報工学科)
+      icon: ./assets/avatar.png
 
 entries2011:
   -
