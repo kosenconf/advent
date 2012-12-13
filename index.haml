@@ -1,3 +1,4 @@
+- require "digest/md5"
 - title = "Kosen Advent Calendar"
 
 !!! 5
@@ -15,10 +16,10 @@
     %meta(property="og:image"       content="http://kosenconf.github.com/advent/assets/kosen50.png"  )
     %script( type="text/javascript" src="assets/jquery-1.8.3.min.js" )
     %script( type="text/javascript" src="assets/knockout-2.2.0.js" )
-    %script( type="text/javascript" src="assets/entries.js" )
-    %script( type="text/javascript" src="assets/advent.js" )
+    %script( type="text/javascript" src="assets/entries.js?#{Digest::MD5.hexdigest(open('assets/entries.js').read)}" )
+    %script( type="text/javascript" src="assets/advent.js?#{Digest::MD5.hexdigest(open('assets/advent.js').read)}" )
     %link( rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css" )
-    %link( rel="stylesheet" type="text/css" href="assets/advent.css" )
+    %link( rel="stylesheet" type="text/css" href="assets/advent.css?#{Digest::MD5.hexdigest(open('assets/advent.css').read)}" )
 
     %script( type="text/html" id="entry-template" )
       .entry
