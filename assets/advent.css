@@ -36,8 +36,8 @@ h2 a, h3 a {
   .entry .author {
     min-height: 24px; }
     .entry .author .name {
-      font-size: 90%;
-      padding: 0 5px; }
+      font-size: 85%;
+      padding: 0 3px; }
   .entry .day {
     width: 50px;
     text-align: center;
