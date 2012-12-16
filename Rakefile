@@ -7,9 +7,6 @@ task :compile do
 
   puts "Compile:"
 
-  puts "  haml   > html"
-  system("haml index.haml > index.html")
-
   puts "  coffee > js"
   system("coffee -c assets/advent.coffee")
 
@@ -23,6 +20,9 @@ task :compile do
     entries.map { |array| key, value = array; "var #{key} = #{value.to_json}" }.join("\n"),
     :encoding => Encoding::UTF_8
   )
+
+  puts "  haml   > html"
+  system("haml index.haml > index.html")
 
   puts "Done!"
 end
