@@ -97,6 +97,13 @@ entries2012general:
     author:
       name: 第九の源
       icon: http://twimg0-a.akamaihd.net/profile_images/387602262/genthewalkin_bigger.png
+  -
+    day:    15
+    title:  ぼくもとこうせんせい
+    url:    http://blog.yagi2.com/?p=720
+    author:
+      name: magical_reisen
+      icon: http://twimg0-a.akamaihd.net/profile_images/2712822415/354ad7f4be570d98e3fdd2e18beec24b_bigger.png
 
 entries2012teachers:
   -
@@ -197,6 +204,13 @@ entries2012teachers:
     author:
       name: 白井 達也 (鈴鹿高専 機械工学科)
       icon: http://twimg0-a.akamaihd.net/profile_images/421170280/________4x3_bigger.jpg
+  -
+    day:    15
+    title:  小山高専へようこそ！
+    url:    http://kosen-teachers.tumblr.com/post/38051649162
+    author:
+      name: 種村 剛 (小山高専 一般科 非常勤講師)
+      icon: ./assets/avatar.png
 
 entries2011:
   -
