@@ -111,6 +111,13 @@ entries2012general:
     author:
       name: s_konbu
       icon: http://twimg0-a.akamaihd.net/profile_images/1743500167/megane1_022_bigger.jpg
+  -
+    day:    17
+    title:  高専生活＋α
+    url:    http://munyo8812.blogspot.jp/2012/12/blog-post.html
+    author:
+      name: むにょ
+      icon: http://twimg0-a.akamaihd.net/profile_images/2686187226/302bed83923a62b4f683232f315eefb8_bigger.jpeg
 
 entries2012teachers:
   -
@@ -225,6 +232,13 @@ entries2012teachers:
     author:
       name:
       icon:
+  -
+    day:    17
+    title:  意味のわからないことを勉強する意味
+    url:    http://kosen-teachers.tumblr.com/post/38152665009
+    author:
+      name: 山田 昌尚 (釧路高専 電子工学科)
+      icon: http://graph.facebook.com/masanao.yamada.50/picture
 
 entries2011:
   -
