@@ -104,6 +104,13 @@ entries2012general:
     author:
       name: magical_reisen
       icon: http://twimg0-a.akamaihd.net/profile_images/2712822415/354ad7f4be570d98e3fdd2e18beec24b_bigger.png
+  -
+    day:    16
+    title:  高専を楽しむための5+1個のポイント
+    url:    http://skonbu.hatenablog.jp/entry/2012/12/16/153321
+    author:
+      name: s_konbu
+      icon: http://twimg0-a.akamaihd.net/profile_images/1743500167/megane1_022_bigger.jpg
 
 entries2012teachers:
   -
@@ -211,6 +218,13 @@ entries2012teachers:
     author:
       name: 種村 剛 (小山高専 一般科 非常勤講師)
       icon: ./assets/avatar.png
+  -
+    day:    16
+    title:  (担当者なし)
+    url:
+    author:
+      name:
+      icon:
 
 entries2011:
   -
