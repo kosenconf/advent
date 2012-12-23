@@ -146,6 +146,13 @@ entries2012general:
     author:
       name: むらやま
       icon: http://twimg0-a.akamaihd.net/profile_images/40188102/kondara_bigger.jpg
+  -
+    day:    22
+    title:  外に出ましょう
+    url:    http://d.hatena.ne.jp/setsuna82001/20121223/1356255054
+    author:
+      name: setsuna82001
+      icon: http://twimg0-a.akamaihd.net/profile_images/2789225266/0018e6f3235436a484d388dc048c6a9b_bigger.jpeg
 
 entries2012teachers:
   -
@@ -295,6 +302,13 @@ entries2012teachers:
     author:
       name: 川上 由紀 (福井高専 電子情報工学科)
       icon: ./assets/avatar.png
+  -
+    day:    22
+    title:  TAってなんだろう？
+    url:    http://myy.hatenablog.com/entry/2012/12/22/201544
+    author:
+      name: 鈴木 未央 (筑波大学大学院 博士後期課程)
+      icon: http://cdn1.www.st-hatena.com/users/my/myymyy/profile.gif
 
 entries2011:
   -
