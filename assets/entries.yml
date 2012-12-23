@@ -153,6 +153,13 @@ entries2012general:
     author:
       name: setsuna82001
       icon: http://twimg0-a.akamaihd.net/profile_images/2789225266/0018e6f3235436a484d388dc048c6a9b_bigger.jpeg
+  -
+    day:    23
+    title:  高専生、外を見ろ。の話(?)
+    url:    http://gonhainu.hatenablog.com/entry/2012/12/23/171353
+    author:
+      name: gonhainu(sakai)
+      icon: http://twimg0-a.akamaihd.net/profile_images/2654970023/dacafb038363a64af5bfc7853956d19f_bigger.png
 
 entries2012teachers:
   -
@@ -309,6 +316,13 @@ entries2012teachers:
     author:
       name: 鈴木 未央 (筑波大学大学院 博士後期課程)
       icon: http://cdn1.www.st-hatena.com/users/my/myymyy/profile.gif
+  -
+    day:    23
+    title:  高専の「校風」に感じる魅力
+    url:    http://kosen-teachers.tumblr.com/post/38616582665
+    author:
+      name: 矢口 久雄 (群馬高専 機械工学科)
+      icon: ./assets/avatar.png
 
 entries2011:
   -
