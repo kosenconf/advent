@@ -139,6 +139,13 @@ entries2012general:
     author:
       name: KeiHotman
       icon: http://twimg0-a.akamaihd.net/profile_images/2269336622/jh33p5h1gvoz7ju3c47u_bigger.jpeg
+  -
+    day:    21
+    title:  高専の頃の話
+    url:    http://mura.stoic.jp/2012/12/kosen_advent_calendar_2012/
+    author:
+      name: むらやま
+      icon: http://twimg0-a.akamaihd.net/profile_images/40188102/kondara_bigger.jpg
 
 entries2012teachers:
   -
@@ -280,6 +287,13 @@ entries2012teachers:
     url:    http://kosen-teachers.tumblr.com/post/38348197236
     author:
       name: 石川 智浩 (産技高専 航空宇宙工学)
+      icon: ./assets/avatar.png
+  -
+    day:    21
+    title:  その気持ちはとてもわかる。
+    url:    http://kosen-teachers.tumblr.com/post/38440354763
+    author:
+      name: 川上 由紀 (福井高専 電子情報工学科)
       icon: ./assets/avatar.png
 
 entries2011:
