@@ -160,6 +160,13 @@ entries2012general:
     author:
       name: gonhainu(sakai)
       icon: http://twimg0-a.akamaihd.net/profile_images/2654970023/dacafb038363a64af5bfc7853956d19f_bigger.png
+  -
+    day:    24
+    title:  高専という独特な環境において持続的に開催され続ける高専カンファレンスなどの交流イベントの存在理由とその展望
+    url:    http://bynn-chapu.hatenablog.com/entry/20121224/1356325157
+    author:
+      name: 黒とう店長
+      icon: http://twimg0-a.akamaihd.net/profile_images/2633692496/ae20ec95966d006fae0e3510932cd304_bigger.jpeg
 
 entries2012teachers:
   -
@@ -323,6 +330,13 @@ entries2012teachers:
     author:
       name: 矢口 久雄 (群馬高専 機械工学科)
       icon: ./assets/avatar.png
+  -
+    day:    24
+    title:  間違えたときこそ、分からなかったときこそ、全てはスタートする
+    url:    http://mizhiro.blog98.fc2.com/blog-entry-25.html
+    author:
+      name: 船津 貴洋 (北九州高専 卒業生)
+      icon: http://twimg0-a.akamaihd.net/profile_images/689442348/070929_114908_bigger.JPG
 
 entries2011:
   -
