@@ -283,11 +283,11 @@ entries2012teachers:
       icon: ./assets/avatar.png
   -
     day:    16
-    title:  (担当者なし)
-    url:
+    title:  ティーチング・アシスタントのススメ
+    url:    http://kakuday.com/articles/45
     author:
-      name:
-      icon:
+      name: 飯田 有佳子 (津山高専 専攻科)
+      icon: http://a0.twimg.com/profile_images/3043817543/fe924e2e64b2ff6d9a25f23d7510339d_normal.png
   -
     day:    17
     title:  意味のわからないことを勉強する意味
